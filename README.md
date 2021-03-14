@@ -1,4 +1,4 @@
 # let-s-get-started
 learning Github
-Commmmpleted first lesson.
+Completed first lesson.
 Trying on my own.
